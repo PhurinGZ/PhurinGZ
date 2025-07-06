@@ -57,12 +57,6 @@
 > A modern platform for collaborative story writing  
 > 🛠 Stack: Next.js, MongoDB, Tailwind, NextAuth
 
-### 🧾 ERP System (Maechan District)
-> University project that supports district-level administration  
-> 🛠 Stack: React, Frappe Framework, Git
-
-### 🔐 Auth System with Google OAuth
-> Built with **NextAuth**, supporting both **email/password** and **Google login**
 
 ---
 
