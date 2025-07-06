@@ -55,27 +55,42 @@
 
 ### 📝 [Storyverse](https://github.com/PhurinGZ/Storyverse)
 > A modern platform for collaborative story writing  
-> 🛠 Stack: Next.js, MongoDB, Tailwind, NextAuth
+🛠️ **Stack:** Next.js, MongoDB, Tailwind, NextAuth
+
+---
 
 ### 📝 [LOFI](https://github.com/PhurinGZ/LOFI)
-> A captivating website for listening to music with a beautiful ambiance, offering a variety of atmospheric sounds to choose from. It features a plethora of playful elements, providing a myriad of options for an immersive experience📻🎧🎸🎶🎶
-> 🛠 Stack: Recat js, Material UI, Photoshop, After Effects, MongdoDB, Node js 
+> A captivating website for listening to music with a beautiful ambiance, offering a variety of atmospheric sounds to choose from.  
+It features a plethora of playful elements, providing a myriad of options for an immersive experience 📻🎧🎸🎶🎶  
+🛠️ **Stack:** React.js, Material UI, Photoshop, After Effects, MongoDB, Node.js
+
+---
 
 ### 📝 [Web Novel Application](https://github.com/PhurinGZ/web-app-novel)
-> A responsive platform for creating and reading web novels
-> 🛠 Stack: Next.js, MongoDB, TailwindCSS, NextAuth
+> A responsive platform for creating and reading web novels  
+🛠️ **Stack:** Next.js, MongoDB, TailwindCSS, NextAuth
+
+---
 
 ### 📝 [Web Blog Demo](https://github.com/PhurinGZ/webBlogDemo)
-> A simple yet functional web blog demo where users can create, edit, and manage posts, as well as customize their profile. Includes clean UI with modals and live editing capabilities ✍️📰💬
-> 🛠 Stack: Node.js, React.js, MongoDB, Express
+> A simple yet functional web blog demo where users can create, edit, and manage posts, as well as customize their profile.  
+Includes clean UI with modals and live editing capabilities ✍️📰💬  
+🛠️ **Stack:** Node.js, React.js, MongoDB, Express
+
+---
 
 ### 📝 [Portfolio Website](https://github.com/PhurinGZ/Portfolio)
-> A modern and responsive personal portfolio site built with Next.js, TypeScript, and Tailwind CSS. Perfect for showcasing your skills, projects, and contact information in style 💼✨
-> 🛠 Stack: Next.js, TypeScript, Tailwind CSS, PostCSS, ESLint, React
+> A modern and responsive personal portfolio site built with Next.js, TypeScript, and Tailwind CSS.  
+Perfect for showcasing your skills, projects, and contact information in style 💼✨  
+🛠️ **Stack:** Next.js, TypeScript, Tailwind CSS, PostCSS, ESLint, React
+
+---
 
 ### 📝 [Project E-Commerce](https://github.com/Thuje009/project-e-commerce/blob/main/README.md)
-> A scalable and modern e-commerce platform built with Next.js and TypeScript. Currently in active development, aiming to support product browsing, cart, checkout, and admin dashboard 🛒🧾💳
-> 🛠 Stack: Next.js 14, TypeScript, Tailwind CSS, Docker, API Routes, ESLint, Prettier
+> A scalable and modern e-commerce platform built with Next.js and TypeScript.  
+Currently in active development, aiming to support product browsing, cart, checkout, and admin dashboard 🛒🧾💳  
+🛠️ **Stack:** Next.js 14, TypeScript, Tailwind CSS, Docker, API Routes, ESLint, Prettier
+
 ---
 
 ## 📊 GitHub Stats
